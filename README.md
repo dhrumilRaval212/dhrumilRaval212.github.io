@@ -2,7 +2,7 @@
 
 
 - 👋 Hi, I’m @dhrumilRaval212
-- 👀 I’m interested in iOS Development
+- 👀 I’m iOS Developer
 - 🌱 I’m currently learning iOS and Python
 - 💞️ I’m looking to collaborate any iOS Project
 - 📫 Email me on rdhrumil212@gmail.com
